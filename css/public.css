@@ -1,0 +1,8 @@
+*{
+	margin: 0;    /* body-8px */
+	padding: 0;		
+	text-decoration: none;	/* a标签的下划线 */
+	font-style: normal;			/* 购物车的斜体 */
+	list-style: none;
+	/* margin: 0 auto; */
+}
